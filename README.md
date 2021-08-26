@@ -28,6 +28,6 @@
  	<a href="https://www.twitch.tv/martinellidk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  
   </div>
-  
+     ![Snake animation](https://github.com/Allan-Souza13/Allan-Souza113/blob/output/github-contribution-grid-snake.svg)
   
    
