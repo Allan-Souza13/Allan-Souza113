@@ -40,6 +40,8 @@
    
    ![Captura de tela 2021-10-14 003035](https://user-images.githubusercontent.com/77082266/137246378-9a9d6ebc-608f-47cc-b0aa-94a160eb150e.png)
    
+   https://github.com/Allan-Souza13/Allan-Souza113/tree/main/order-summary-component-main
+   
 </div>
     
   
