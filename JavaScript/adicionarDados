@@ -1,0 +1,8 @@
+const cliente = {
+
+    nome: "Allan",
+    idade: 22,
+    telefone:"(11)97063-8833",
+    dataDeNacimento:"28/10/1999"
+
+}
