@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Major+Mono+Display&family=Montserrat:ital,wght@0,400;0,700;0,900;1,400&family=Oswald:wght@400;500;700&family=Outfit:wght@300;400;500;600;700&family=Poppins:wght@400;500;600;700&family=Press+Start+2P&display=swap');
+
+
+*{
+   
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body
+{
+    font-family: 'Outfit', sans-serif;
+    background-color: hsl(212, 45%, 89%);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    font-size: 15px;
+}
+
+.container
+{ 
+    max-width: 350px;
+    display: flex;
+    margin: 0 auto;
+}
+
+.card
+{
+    background-color: #fff;
+    padding: 18px;
+    border-radius: 12px;
+    text-align: center;
+    margin: 0 1rem;
+    border: 1px solid black;
+    box-shadow:5px 10px 10px #888888;
+}
+
+
+
+.card img{
+   width: 100%;
+   border-radius: 10px;
+}
+
+.text
+{
+    padding: 20px 10px;
+}
+
+.text h2
+{
+    color:hsl(218, 44%, 22%);
+    padding-bottom: 12px;
+}
+
+.text p{
+    color: hsl(220, 15%, 55%);
+}
